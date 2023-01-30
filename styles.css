@@ -147,9 +147,11 @@ h2 {
 
 /* START SKILLS */
 .badges {
-    width: 40%;
+    width: 6.5%;
     display: flex;    
     margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 .badges img {
